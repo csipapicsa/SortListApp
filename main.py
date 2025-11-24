@@ -118,18 +118,11 @@ with col2:
     if 'sorted_result' in st.session_state and st.session_state['sorted_result']:
         sorted_items = st.session_state['sorted_result']
 
-        print('NO?')
-        print(sorted_items)
-        print("---")
-
         if result_seperator:
             result = '\n'.join(sorted_items)
         else:
             result = ', '.join(sorted_items)
             
-
-        print(result)
-        
         # Display result
         result = st.text_area(
             "Sorted Result",
