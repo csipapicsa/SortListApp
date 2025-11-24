@@ -7,6 +7,13 @@ No Excel wrangling, no scripting, no headaches — just clean, organized lists i
 
 Whether you’re in **academia**, **research**, **data analysis**, **grant writing**, **systematic reviews**, or anything where you copy-paste chaotic lists… this saves you time (and sanity).
 
+## 👉 **Try it here:** https://sortlist.streamlit.app
+
+> ⚠️ If the app is temporarily unavailable (Streamlit sometimes idles unused apps),  
+> just click **“Yes, get this app back up!”**— it will spin up again in a few seconds.
+
+
+
 ## ✨ Features
 - **Automatic separator detection**  
   Understands commas, semicolons, spaces, and new lines.
